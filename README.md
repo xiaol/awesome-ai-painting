@@ -78,6 +78,7 @@
 |爱作画 | 有免费次数 + 付费 |https://aizuohua.com/|
 |皮卡智能AI | 免费 |https://www.picup.shop/text2image.html#/ |
 |云景AI绘图 | 免费 |https://yunjing.gallery |
+|AI Creator | 免费 |https://ai-creator.net |
 
 
 ### 模型下载
